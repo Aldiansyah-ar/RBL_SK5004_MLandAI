@@ -58,7 +58,11 @@ Notes
 
 
 6. Task Assignments:
+
 a. Medium Story: Rizaldi and Gia
+
 b. YouTube video: All members
+
 c. Git code: Aldiansyah
+
 d. OSF Presentation slides: Giovaldi
